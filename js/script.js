@@ -13,7 +13,7 @@ const questionsData = {
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="../images/T1-Q01.png"
+<img src="images/T1-Q01.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -28,7 +28,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T1-Q02.png"
+<img src="images/T1-Q02.png"
 style="max-width:100%; height:auto;">`
         },
         {
