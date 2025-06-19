@@ -43,7 +43,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T1-Q03.png"
+<img src="images/T1-Q03.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -58,7 +58,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T1-Q04.png"
+<img src="images/T1-Q04.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -73,7 +73,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T1-Q05.png"
+<img src="images/T1-Q05.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -88,7 +88,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T1-Q06.png"
+<img src="images/T1-Q06.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -103,7 +103,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T1-Q07.png"
+<img src="images/T1-Q07.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -118,7 +118,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T1-Q08.png"
+<img src="images/T1-Q08.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -133,7 +133,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T1-Q09.png"
+<img src="images/T1-Q09.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -148,7 +148,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T1-Q10.png"
+<img src="images/T1-Q10.png"
 style="max-width:100%; height:auto;">`
         }
     ],
@@ -165,7 +165,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T2-Q01.png"
+<img src="images/T2-Q01.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -187,7 +187,7 @@ A alternativa que avalia corretamente as afirmações acima é:
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T2-Q02.png"
+<img src="images/T2-Q02.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -204,7 +204,7 @@ O número 2...
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T2-Q03.png"
+<img src="images/T2-Q03.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -226,7 +226,7 @@ A alternativa que avalia corretamente as afirmações acima é:
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T2-Q04.png"
+<img src="images/T2-Q04.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -241,7 +241,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T2-Q05.png"
+<img src="images/T2-Q05.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -256,7 +256,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T2-Q06.png"
+<img src="images/T2-Q06.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -271,7 +271,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T2-Q07.png"
+<img src="images/T2-Q07.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -286,7 +286,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T2-Q08.png"
+<img src="images/T2-Q08.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -301,7 +301,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T2-Q09.png"
+<img src="images/T2-Q09.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -316,7 +316,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T2-Q10.png"
+<img src="images/T2-Q10.png"
 style="max-width:100%; height:auto;">`
         }
     ],
@@ -333,7 +333,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T3-Q01.png"
+<img src="images/T3-Q01.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -348,7 +348,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T3-Q02.png"
+<img src="images/T3-Q02.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -363,7 +363,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T3-Q03.png"
+<img src="images/T3-Q03.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -378,7 +378,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T3-Q04.png"
+<img src="images/T3-Q04.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -393,7 +393,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T3-Q05.png"
+<img src="images/T3-Q05.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -408,7 +408,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T3-Q06.png"
+<img src="images/T3-Q06.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -423,7 +423,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T3-Q07.png"
+<img src="images/T3-Q07.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -438,7 +438,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T3-Q08.png"
+<img src="images/T3-Q08.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -453,7 +453,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T3-Q09.png"
+<img src="images/T3-Q09.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -468,7 +468,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T3-Q10.png"
+<img src="images/T3-Q10.png"
 style="max-width:100%; height:auto;">`
         }
     ],
@@ -485,7 +485,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T4-Q01.png"
+<img src="images/T4-Q01.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -500,7 +500,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T4-Q02.png"
+<img src="images/T4-Q02.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -515,7 +515,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T4-Q03.png"
+<img src="images/T4-Q03.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -530,7 +530,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T4-Q04.png"
+<img src="images/T4-Q04.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -545,7 +545,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T4-Q05.png"
+<img src="images/T4-Q05.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -560,7 +560,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T4-Q06.png"
+<img src="images/T4-Q06.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -575,7 +575,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T4-Q07.png"
+<img src="images/T4-Q07.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -590,7 +590,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T4-Q08.png"
+<img src="images/T4-Q08.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -605,7 +605,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T4-Q09.png"
+<img src="images/T4-Q09.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -620,7 +620,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T4-Q10.png"
+<img src="images/T4-Q10.png"
 style="max-width:100%; height:auto;">`
         }
     ],
@@ -638,7 +638,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T5-Q01.png"
+<img src="images/T5-Q01.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -654,7 +654,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T5-Q02.png"
+<img src="images/T5-Q02.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -670,7 +670,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T5-Q03.png"
+<img src="images/T5-Q03.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -685,7 +685,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "B",
             explanation: `A alternativa correta é a alternativa B.<br>
-<img src="/images/T5-Q04.png"
+<img src="images/T5-Q04.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -700,7 +700,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T5-Q05.png"
+<img src="images/T5-Q05.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -715,7 +715,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "C",
             explanation: `A alternativa correta é a alternativa C.<br>
-<img src="/images/T5-Q06.png"
+<img src="images/T5-Q06.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -732,7 +732,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T5-Q07.png"
+<img src="images/T5-Q07.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -747,7 +747,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "A",
             explanation: `A alternativa correta é a alternativa A.<br>
-<img src="/images/T5-Q08.png"
+<img src="images/T5-Q08.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -764,7 +764,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "D",
             explanation: `A alternativa correta é a alternativa D.<br>
-<img src="/images/T5-Q09.png"
+<img src="images/T5-Q09.png"
 style="max-width:100%; height:auto;">`
         },
         {
@@ -781,7 +781,7 @@ style="max-width:100%; height:auto;">`
             ],
             correct: "E",
             explanation: `A alternativa correta é a alternativa E.<br>
-<img src="/images/T5-Q10.png"
+<img src="images/T5-Q10.png"
 style="max-width:100%; height:auto;">`
         }
     ]
