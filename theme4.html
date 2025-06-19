@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mateca no Grau - Tema 4</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="theme-page">
+    <div class="background-pattern"></div>
+    
+    <header class="theme-header">
+        <div class="header-content">
+            <h1 class="site-logo">Mateca no Grau</h1>
+            <nav class="breadcrumb">
+                <a href="index.html">Início</a> > 
+                <a href="home.html">Temas</a> > 
+                <span>Tema 4</span>
+            </nav>
+            <button class="back-button" onclick="window.location.href='home.html'">← Voltar</button>
+        </div>
+    </header>
+    
+    <main class="theme-main">
+        <div class="question-container">
+            <div class="question-header">
+                <h2 class="theme-title">Tema 4</h2>
+                <div class="question-counter">
+                    <span id="current-question">1</span> de <span id="total-questions">10</span>
+                </div>
+            </div>
+            
+            <div class="progress-container">
+                <div class="progress-bar-full">
+                    <div class="progress-fill-full" id="progress-bar"></div>
+                </div>
+            </div>
+            
+                <div class="question-content">
+                    <div class="question-text">
+                        <h3 id="question-title">📋 Enunciado da questão 1 do Tema 1 - placeholder</h3>
+                        <p id="question-description">📝 Vamos resolver este desafio! 🤔</p>
+                    </div>
+                
+                <div class="alternatives" id="alternatives-container">
+                        <button class="alternative-btn" data-answer="A">
+                            <div class="alternative-letter">A)</div>
+                            <div class="alternative-text">🅰️ Alternativa A - texto placeholder para a primeira opção</div>
+                        </button>
+                        <button class="alternative-btn" data-answer="B">
+                            <div class="alternative-letter">B)</div>
+                            <div class="alternative-text">🅱️ Alternativa B - texto placeholder para a segunda opção</div>
+                        </button>
+                        <button class="alternative-btn" data-answer="C">
+                            <div class="alternative-letter">C)</div>
+                            <div class="alternative-text">🅲 Alternativa C - texto placeholder para a terceira opção</div>
+                        </button>
+                        <button class="alternative-btn" data-answer="D">
+                            <div class="alternative-letter">D)</div>
+                            <div class="alternative-text">🅳 Alternativa D - texto placeholder para a quarta opção</div>
+                        </button>
+                        <button class="alternative-btn" data-answer="E">
+                            <div class="alternative-letter">E)</div>
+                            <div class="alternative-text">🅴 Alternativa E - texto placeholder para a quinta opção</div>
+                        </button>
+                    </div>
+                    
+                    <div class="feedback-area" id="feedback-area" style="display: none;">
+                        <div class="feedback-content">
+                            <div class="feedback-icon" id="feedback-icon"></div>
+                            <div class="feedback-text">
+                                <h4 id="feedback-title"></h4>
+                                <p id="feedback-description"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="navigation-buttons">
+                    <button class="nav-btn" id="prev-btn" onclick="previousQuestion()" disabled>← Anterior</button>
+                    <button class="nav-btn" id="next-btn" onclick="nextQuestion()" disabled>Próxima →</button>
+                </div>
+            </div>
+            
+            <div class="score-container">
+                <h4>Pontuação</h4>
+                <div class="score-value" id="score-value">0</div>
+                <div class="score-total">de <span id="max-score">10</span></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
